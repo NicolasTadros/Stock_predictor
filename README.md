@@ -1,1 +1,3 @@
 This stock prediction web app leverages real historical data to forecast future stock prices using a deep learning model(LSTM). Designed with a Flask-based interface, it allows users to simply input a stock ticker and instantly see how the model’s predictions compare to actual market data. Behind the scenes, it handles data preprocessing, scaling, and sequence generation, then trains the model dynamically for each query. It’s a great example of combining machine learning with full-stack development to deliver a functional, user-friendly tool!
+
+Try it out yourself!: file:///C:/Users/ntadr/OneDrive/Desktop/stock-predictor/templates/index.html
